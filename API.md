@@ -33,6 +33,7 @@ A table of values used to set shape options when passed to a drawing function. A
 - `color` - String. The color of the shape. Defaults to `vizlib.default_color`.
 - `infinite` - Boolean. If true, the shape will never expire. By default the shape will expire after 10 seconds.
 - `player` - String or player object. If set, only the specified player will see the shape.
+- `time` - The time it takes for the shape to expire. This was by skyblock_zero.
 
 #### **`shape`**
 
